@@ -4329,7 +4329,7 @@
   },
   {
     "name": "Universite du Quebec a Montreal",
-    "url": "http://proxy.bibliotheques.uqam.ca:2048/login?url=$@"
+    "url": "http://proxy.bibliotheques.am.ca:2048/login?url=$@"
   },
   {
     "name": "Universiteit Hasselt",
@@ -4580,7 +4580,7 @@
     "url": "https://ezproxy.libraries.udmercy.edu/login?url=$@"
   },
   {
-    "name": "University of Dubuque",
+    "name": "University of Dubue",
     "url": "http://ezproxy.dbq.edu:2048/login?url=$@"
   },
   {
@@ -5033,7 +5033,7 @@
   },
   {
     "name": "University of Queensland",
-    "url": "http://ezproxy.library.uq.edu.au/login?url=$@"
+    "url": "https://resolver.library.uq.edu.au/openathens/redir?url=$@"
   },
   {
     "name": "University of Regina",
